@@ -1,0 +1,15 @@
+cpio meson cmake hyprland Kitty swaybg dunst rofi-wayland waybar lf pipewire wireplumber qt5-wayland qt6-wayland polkit-kde-agent-1  waylock thunar
+
+->
+
+git clone --recursive https://github.com/hyprwm/Hyprland
+cd Hyprland
+make all && sudo make install
+
+
+installa cliphist, hycov da un binario e mettilo nel path 
+
+https://github.com/adi1090x/rofi?tab=readme-ov-file # INSTALLA ANCHE QUESTO SERVE PER POWERMENU poi fare binding
+
+ricorda la configurazione di Firefox
+
