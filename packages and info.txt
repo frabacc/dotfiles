@@ -1,5 +1,5 @@
 cpio meson cmake hyprland Kitty swaybg dunst rofi-wayland waybar lf pipewire wireplumber qt5-wayland qt6-wayland polkit-kde-agent-1  waylock thunar
-
+cliphist 
 ->
 
 git clone --recursive https://github.com/hyprwm/Hyprland
