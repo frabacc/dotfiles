@@ -13,3 +13,5 @@ https://github.com/adi1090x/rofi?tab=readme-ov-file # INSTALLA ANCHE QUESTO SERV
 
 ricorda la configurazione di Firefox
 
+ricorda anche di configurare la scheda video della cpu come principale
+
